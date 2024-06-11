@@ -1,3 +1,6 @@
 body{
     background-color: bisque;
 }
+.dog{
+    border= 5px solid black;
+}
