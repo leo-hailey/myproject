@@ -1,6 +1,11 @@
 body{
     background-color: bisque;
 }
-.dog{
-    border= 5px solid black;
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.image{
+    border: 5px dotted black;
+    width: 580px;
+    border-radius: 40px;
 }
